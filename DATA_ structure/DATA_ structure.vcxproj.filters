@@ -36,7 +36,16 @@
     <ClCompile Include="单链表的查找.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="栈.cpp">
+    <ClCompile Include="栈-顺序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="栈-链式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="队列-顺序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
