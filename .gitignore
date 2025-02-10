@@ -361,3 +361,14 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/DATA_ structure/单链表的建立.cpp
+/DATA_ structure/单链表的插入和删除.cpp
+/DATA_ structure/单链表的查找.cpp
+/DATA_ structure/双链表.cpp
+/DATA_ structure/栈-链式.cpp
+/DATA_ structure/栈-顺序.cpp
+/DATA_ structure/源.cpp
+/DATA_ structure/队列-顺序.cpp
+/DATA_ structure/顺序表的动态分配.cpp
+/DATA_ structure/顺序表的定义.cpp
+/DATA_ structure/顺序表的查找.cpp
